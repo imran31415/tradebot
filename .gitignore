@@ -1,0 +1,8 @@
+.env
+positions.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+backtest_cache.json
